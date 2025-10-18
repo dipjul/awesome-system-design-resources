@@ -11,6 +11,8 @@ This repository contains free resources to learn System Design concepts and prep
 ## ⚙️ Core Concepts
 - [Scalability](https://algomaster.io/learn/system-design/scalability)
 - [Availability](https://algomaster.io/learn/system-design/availability)
+- [Reliability](https://algomaster.io/learn/system-design/reliability)
+- Consistency Models: [Link1](https://www.scylladb.com/glossary/consistency-models/) [Link2](https://www.designgurus.io/blog/consistency-patterns-distributed-systems)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
 - [Consistent Hashing](https://blog.algomaster.io/p/consistent-hashing-explained)
 - [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures)
