@@ -98,7 +98,7 @@ This repository contains free resources to learn System Design concepts and prep
 ## 💻 System Design Interview Problems
 ### Easy
 - [Design URL Shortener like TinyURL](https://blog.algomaster.io/p/design-a-url-shortener)
-- [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
+- Design Content Delivery Network (CDN)[Link-1]()
 - [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
 - [Design Vending Machine](https://www.youtube.com/watch?v=D0kDMUgo27c)
 - [Design Distributed Key-Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
@@ -146,6 +146,8 @@ This repository contains free resources to learn System Design concepts and prep
 - [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
 - [Design Slack](https://systemdesign.one/slack-architecture/)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
+- [Design Stock Broker]()
+- [Design a Bidding Platform]()
 
 ## 📇 Courses
 - [Master System Design](https://algomaster.io/learn/system-design/what-is-system-design)
